@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDRo4EuWG9-mVd3XVoMTXbXo8dHg9lrIkE',
-    appId: '1:858999507653:web:b8968a91f837575df1beac',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '858999507653',
     projectId: 'weather-app-d1c43',
     authDomain: 'weather-app-d1c43.firebaseapp.com',
